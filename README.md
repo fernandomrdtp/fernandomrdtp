@@ -19,7 +19,7 @@
 
 📫 Let's connect:
 - Twitter: https://x.com/fernandomrdtp
-- Telegram: t.me/@akonbia
+- Telegram: t.me/akonbia
 - Wallet: 0x0f7d0e42C4065B69487413A10a3eF437d35bb817
 
 🚀 *Learning in public. Every day is a new commit.*
